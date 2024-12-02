@@ -24,4 +24,4 @@ Before you begin, ensure you have the following:
 1. **Python 3.7+** installed on your system.
 2. Required Python libraries. Install them using the following command:
    ```bash
-   pip install plyer DrissionPage CloudflareBypasser
+   pip install plyer DrissionPage
